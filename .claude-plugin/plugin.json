@@ -1,0 +1,12 @@
+{
+  "name": "Daniel-Rosehill",
+  "version": "1.0.0",
+  "description": "Personal-use skills and slash commands for Daniel Rosehill — released publicly for convenience.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Daniel-Rosehill-plugin",
+  "license": "MIT",
+  "keywords": ["personal", "danielrosehill"]
+}
