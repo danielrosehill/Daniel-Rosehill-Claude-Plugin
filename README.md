@@ -10,7 +10,7 @@ Personal-use Claude Code plugin for Daniel Rosehill. Released publicly via [Dani
 
 ```bash
 claude plugins marketplace add danielrosehill/Claude-Code-Plugins
-claude plugins install Daniel-Rosehill@danielrosehill
+claude plugins install daniel-rosehill@danielrosehill
 ```
 
 ## License
